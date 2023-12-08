@@ -1,5 +1,5 @@
 <?php
-require_once("inc/translate.php");
+require_once("inc/translation.php");
 
 ?>
 

@@ -2,5 +2,5 @@
 /*
 Renvoie la la langue en cours
 */
-$lang = "nl";
+$lang = "en";
 $langs = ["fr", "nl", "en"];
