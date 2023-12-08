@@ -3,8 +3,11 @@
 ## Principe
 
 Lors de la composition de rendu (HTML) toute chaine de caractères peut être traduite via une function.
+
 Cette function - $t(texte) - est extraite du module "translate.php" qui prend en charge un lexique.
+
 Ce lexique est sauvegardé par une autre function - $t_save() - (extraite du même module).
+
 La traduction dynamique est pilotée par le module "localisation.php"
 
 ## fonctionement
