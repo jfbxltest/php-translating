@@ -1,0 +1,11 @@
+{
+  "Hello-bxl": {
+    "fr": "Bonjour le monde",
+    "nl": "Hallo wereld",
+    "en": "Hello world"
+  },
+  "valider": { "fr": "valider", "nl": "valider", "en": "validate" },
+  "annuler": { "fr": "annuler", "nl": "annuler", "en": "cancel" },
+  "continuer": { "fr": "continuer", "nl": "continuer", "en": "continue" },
+  "home": { "fr": "acceuil", "nl": "huis", "en": "home" }
+}
